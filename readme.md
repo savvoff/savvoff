@@ -34,9 +34,10 @@ Creative stack:\
 ![](https://img.shields.io/badge/SmoothScroll-LocomotiveScroll-informational?style=flat&logo=smoothscroll&logoColor=white&color=57682d)
 ![](https://img.shields.io/badge/SPA-Swup-informational?style=flat&logo=swup&logoColor=white&color=57682d)
 
-💪 **My GitHub Stats:**
+💪 **My Stats:**
 
-[![Savvov's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvoff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko)](https://github.com/savvoff)
+[![roadmap.sh](https://roadmap.sh/card/wide/691490a6ce70eef65b8f8fb0?variant=dark&roadmaps=)](https://roadmap.sh)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvoff&layout=compact&hide_border=true&theme=merko)
 
 
@@ -45,5 +46,6 @@ Creative stack:\
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/savvoff)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat-square&logo=Facebook&logoColor=white)](http://fb.me/savvoff)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-229ed9?style=flat-square&logo=Telegram&logoColor=white)](http://t.me/savvoff)
+
 
 <img src="./thumb-up.png" width="280" alt="Thumb Up">
